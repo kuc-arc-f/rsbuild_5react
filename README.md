@@ -13,19 +13,6 @@
 rsbuild + React + Express, example
 
 ***
-### Components
-* AlertDialog
-* Button
-* Card
-* CheckBox
-* input
-* NavigationMenu
-* TextArea
-* Radio
-* Select
-* Table
-
-***
 ### Related
 
 * https://rsbuild.dev/guide/start/quick-start
